@@ -1,0 +1,56 @@
+body  {
+background-color:gray;
+background-image:url('../images/background.jpg') ;
+background-repeat:no-repeat;
+background-attachment:fixed;
+padding:10px;
+}
+.mainpage {
+width: 961px;
+height: 1506px;
+background-image:url('../images/gradient.png') ;
+margin:auto;
+color: white;
+}
+.head {
+font-size: 30px;
+text-align: center;
+height:125px;
+width:960px;
+border:1px solid black;
+}
+.nav {
+float:left;
+width:125px;
+height:auto;
+border:1px solid black;
+text-align:center;
+text-decoration:underline;
+}
+.foot {
+height:50px;
+width:960px;
+
+}
+.main {
+
+width:960px;
+height:1325px;
+}
+.flr {
+float:right;
+}
+.flc {
+float:middle;
+}
+.gnar{
+font-size:50px;
+}
+.clf {
+clear: all;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+	}
