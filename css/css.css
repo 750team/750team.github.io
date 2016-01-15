@@ -1,7 +1,6 @@
 body  {
-background-color:gray;
-background-image:url('../images/background.jpg') ;
-background-repeat:no-repeat;
+background-image:url('../images/back.jpg') ;
+background-repeat:repeat;
 background-attachment:fixed;
 padding:10px;
 }
@@ -24,7 +23,7 @@ border:1px solid black;
 float:left;
 width:125px;
 height:auto;
-border:1px solid black;
+border:1px solid gray;
 text-align:center;
 text-decoration:underline;
 }
@@ -58,8 +57,7 @@ IMG.displayed {
 	}
 .div2 {
 text-align: center;
-background-color:white;
-color:black;
+background-image:url('../images/gradient.png') ;
 width:550px;
 height:1325px;
 margin:auto;
