@@ -1,0 +1,13 @@
+cscd Desktop
+git clone https://github.com/huyle333/huyle333....
+cd huyle333.github.io
+touch index.html
+notepad index.html
+git add index.html
+git commit -m "added index.html"
+git push origin master
+7) Go to Namecheap and buy a domain.
+8) Click on the domain that you bought and click on All Host Records. I bought www.chimeflow.com
+@ 192.30.252.153 A (Address)
+@ 192.30.252.154 A (Address)
+www huyle333.github.io. CNAME (Alias)
