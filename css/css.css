@@ -1,7 +1,6 @@
 body  {
-background-color:gray;
-background-image:url('../images/background.jpg') ;
-background-repeat:no-repeat;
+background-image:url('../images/back.jpg') ;
+background-repeat:repeat;
 background-attachment:fixed;
 padding:10px;
 }
@@ -13,6 +12,7 @@ margin:auto;
 color: white;
 }
 .head {
+	
 font-size: 30px;
 text-align: center;
 height:125px;
@@ -23,7 +23,7 @@ border:1px solid black;
 float:left;
 width:125px;
 height:auto;
-border:1px solid black;
+border:1px solid green;
 text-align:center;
 text-decoration:underline;
 }
@@ -57,8 +57,6 @@ IMG.displayed {
 	}
 .div2 {
 text-align: center;
-background-color:white;
-color:black;
 width:550px;
 height:1325px;
 margin:auto;
