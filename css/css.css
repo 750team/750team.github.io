@@ -23,7 +23,7 @@ border:1px solid black;
 float:left;
 width:125px;
 height:auto;
-border:1px solid gray;
+border:1px solid green;
 text-align:center;
 text-decoration:underline;
 }
@@ -57,7 +57,6 @@ IMG.displayed {
 	}
 .div2 {
 text-align: center;
-background-image:url('../images/gradient.png') ;
 width:550px;
 height:1325px;
 margin:auto;
