@@ -37,7 +37,7 @@ transition-duration: .2s;
 transition: all 0.5s ease;
 	}
 .navbuttFRC:hover{
-background-color: #89A389;
+background-color: black;
 height: 100px;
 	}
 .navbuttFTC {
@@ -105,20 +105,17 @@ transition: all 0.5s ease;
 .navbar {
 	height:28px; 
 	color:#AFAFAF;
-	background-color:#FFFFFF;
+	background-color:black;
 	text-align:center;
 	margin:auto;
-	z-index: 6;
 	}
 .linkage {
-	color:#AFAFAF;
+	color:red;
 	background-color;#FFFFFF;
 	font-weight: bold;
 	text-decoration: none;
 	}
 .background {
-	color:#AFAFAF;
-	background-color;#FFFFFF;
 	width:100%;
 	left:0px;
 	top:0px;
@@ -126,7 +123,3 @@ transition: all 0.5s ease;
 	margin:auto;
 	text-align:center;
 	}
-.navbuttHome:Hover .linkage {
-	background-color:#89A389;
-	transition: background-color 1.3s ease;
-}
